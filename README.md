@@ -18,6 +18,8 @@
 - <img src ="https://github.com/Data-Science-Community-SRM/Cryptocurrency-Price-Prediction/blob/main/Images/Week1.png" style="width:1500px;height:500px" align="centre">
 ## Functionalities
 - [ ]  Predicts Prices of Bitcoin [BTC]
+- [ ]  The forecast time window can be set by the user
+- [ ]  The user can check the candlestick graph that displays the high,low,open,close of Bitcoin [BTC]
 
 <br>
 

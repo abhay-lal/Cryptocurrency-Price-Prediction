@@ -9,7 +9,8 @@
 
 ---
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](https://github.com/Data-Science-Community-SRM/Cryptocurrency-Price-Prediction/blob/main/README.md) 
- <!-- [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE) -->
+[![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](https://share.streamlit.io/abhay-lal/cryptocurrency-price-prediction/app0.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/abhay-lal/cryptocurrency-price-prediction/app0.py)
 
 ## Preview
 - <img src ="https://github.com/Data-Science-Community-SRM/Cryptocurrency-Price-Prediction/blob/main/Images/streamlit_header.png" style="width:1500px;height:500px" align="centre">
